@@ -1,0 +1,65 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "known"
+  },
+  "subtitle_hero": {
+    "__TYPE__": "FieldContent",
+    "value": "principle",
+    "type": "Text"
+  },
+  "title_hero": {
+    "__TYPE__": "FieldContent",
+    "value": "rush",
+    "type": "Text"
+  },
+  "description_hero": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Commodo elit tempor duis ut ullamco consectetur. Cillum occaecat tempor ea ex nulla."
+        }
+      }
+    ]
+  },
+  "label_button": {
+    "__TYPE__": "FieldContent",
+    "value": "class",
+    "type": "Text"
+  },
+  "url_button": {
+    "__TYPE__": "LinkContent",
+    "value": {
+      "__TYPE__": "ExternalLink",
+      "url": "https://slicemachine.dev"
+    }
+  },
+  "label_trailer": {
+    "__TYPE__": "FieldContent",
+    "value": "load",
+    "type": "Text"
+  },
+  "thumbnail_trailer": {
+    "__TYPE__": "ImageContent",
+    "origin": {
+      "id": "main",
+      "url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2",
+      "width": 5616,
+      "height": 3744
+    },
+    "url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2",
+    "width": 5616,
+    "height": 3744,
+    "edit": {
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      },
+      "background": "transparent"
+    },
+    "thumbnails": {}
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "taught"
+  },
+  "slug": {
+    "__TYPE__": "FieldContent",
+    "value": "class",
+    "type": "Text"
+  },
+  "image_character": {
+    "__TYPE__": "ImageContent",
+    "origin": {
+      "id": "main",
+      "url": "https://images.unsplash.com/photo-1607582278043-57198ac8da43",
+      "width": 4024,
+      "height": 4024
+    },
+    "url": "https://images.unsplash.com/photo-1607582278043-57198ac8da43",
+    "width": 4024,
+    "height": 4024,
+    "edit": {
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      },
+      "background": "transparent"
+    },
+    "thumbnails": {}
+  },
+  "name_character": {
+    "__TYPE__": "FieldContent",
+    "value": "bus",
+    "type": "Text"
+  },
+  "description_character": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Est laborum reprehenderit ad pariatur minim amet esse laboris cillum eu irure nostrud do deserunt."
+        }
+      }
+    ]
+  }
+}
